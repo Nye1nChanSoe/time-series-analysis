@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "catboost>=1.2.8",
+    "datasetsforecast>=1.0.0",
+    "hierarchicalforecast>=1.4.0",
     "kagglehub>=1.0.0",
     "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
